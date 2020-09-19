@@ -2,8 +2,13 @@
   "name": "myhtml",
   "version": "1.0.0",
   "description": "Assignment",
+  "engines": {
+    "node": "12.x"
+  },
+
   "main": "app.js",
   "scripts": {
+    "start": "node app.js"
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -12,7 +17,7 @@
   },
   "keywords": [
     "nodejs",
-    "spu"
+    "heroku"
   ],
   "author": "Obi Wan",
   "license": "ISC",
