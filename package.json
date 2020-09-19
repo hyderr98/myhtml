@@ -1,0 +1,23 @@
+{
+  "name": "myhtml",
+  "version": "1.0.0",
+  "description": "Assignment",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hyderr98/myhtml.git"
+  },
+  "keywords": [
+    "nodejs",
+    "spu"
+  ],
+  "author": "Obi Wan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hyderr98/myhtml/issues"
+  },
+  "homepage": "https://github.com/hyderr98/myhtml#readme"
+}
